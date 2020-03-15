@@ -1,1 +1,1 @@
-# blog_seeder
+# LDA_for_blog_seeder
