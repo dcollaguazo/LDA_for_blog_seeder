@@ -25,7 +25,7 @@ more-itertools==8.2.0
 murmurhash==1.0.2
 nltk==3.4.5
 numexpr==2.7.1
-numpy==1.18.1
+numpy==1.22.0
 packaging==20.3
 pandas==1.0.2
 plac==1.1.3
